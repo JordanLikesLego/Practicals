@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67550a43-e014-4a15-b8a1-269b4c3fc0c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pracs/Prac_06/Task X.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Pracs/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Pracs/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Pracs/Prac_05/commit4jack.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Pracs/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Pracs/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Pracs/Prac_05/from scratch.py" afterPath="$PROJECT_DIR$/../Pracs/Prac_05/from scratch.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +17,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="from scratch.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="from scratch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Pracs/Prac_05/from scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="commit4jack.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Pracs/Prac_05/commit4jack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -84,6 +92,7 @@
       <list>
         <option value="$PROJECT_DIR$/../Pracs/Prac_06/Task X.py" />
         <option value="$PROJECT_DIR$/../Pracs/Prac_05/from scratch.py" />
+        <option value="$PROJECT_DIR$/../Pracs/Prac_05/commit4jack.py" />
       </list>
     </option>
   </component>
@@ -218,6 +227,14 @@
       <option name="presentableId" value="Default" />
       <updated>1525065743215</updated>
     </task>
+    <task id="LOCAL-00001" summary="asdf">
+      <created>1525071419861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525071419861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -250,6 +267,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="asdf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -306,8 +327,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Pracs/Prac_05/from scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="1" lean-forward="false" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pracs/Prac_05/commit4jack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
