@@ -10,10 +10,5 @@ for word in words:
     else:
         counts[word] = 1
 
-
 for key in sorted(counts):
     print("{:{}}: {}".format(key, longest, counts[key]))
-
-
-
-#lagsngklansfjg
